@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyListView_Dialog</string>
+    <string-array name="person_name">
+        <item>李白</item>
+        <item>李清照</item>
+        <item>弄玉</item>
+        <item>王子</item>
+        <item>公主</item>
+    </string-array>
+    <string-array name="person_details">
+        <item>唐代诗人</item>
+        <item>宋代女词人</item>
+        <item>红楼梦人物</item>
+        <item>学生会干部</item>
+        <item>班级学习委员</item>
+    </string-array>
+
+</resources>

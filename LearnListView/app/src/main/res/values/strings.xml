@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LearnListView</string>
+    <string-array name="person">
+        <item>小王</item>
+        <item>小李</item>
+        <item>小赵</item>
+        <item>小张</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">register</string>
+        <string name="message1">用户名</string>
+    <string name="message2">输入密码</string>
+    <string name="message3">注册</string>
+
+    <string-array name="cities">
+        <item>上海</item>
+        <item>广州</item>
+        <item>深圳</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,15 @@
+{
+  "cat":"it",
+  "languages":[
+    {"id":1,"ide":"Eclipse","name":"Java"},
+    {"id":2,"ide":"Xcode","name":"Swift"},
+    {"id":3,"ide":"Visual Studio","name":"C#"}
+  ],
+  "pop": true
+}
+//[
+//  {"name":"张三","age":"17"},
+//  {"name":"李四","age":"18"},
+//  {"name":"王五","age":"19"},
+//  {"name":"赵六","age":"20"}
+//]
